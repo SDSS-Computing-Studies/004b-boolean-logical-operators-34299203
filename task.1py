@@ -24,3 +24,9 @@ Enter the distance of the Earth in AU: 1.011
 That is within normal Earth orbit.
 
 """
+orbit = input(what is orbit?)
+orbit = 79int(orbit)
+if orbit <0.9759 and 
+    print("the orbit in normal")
+else
+    print("the orbit is not normal")
